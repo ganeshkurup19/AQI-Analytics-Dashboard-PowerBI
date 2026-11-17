@@ -62,6 +62,10 @@ To understand how air quality varies across Indian cities and over time, which p
 - **Power BI Desktop**: data modelling, DAX measures, interactive visuals
 - **Excel**: source dataset
 
+## Data Source
+
+The dataset (`data/aqi_india_daily.xlsx`) was sourced from [Kaggle](https://www.kaggle.com/) and contains daily AQI and pollutant readings for Indian cities.
+
 ## Repository Structure
 
 ```
